@@ -1,8 +1,12 @@
 {
   "name": "turing",
   "version": "1.0.0",
-  "description": "",
+  "description": "turing library for thin @ zhaw",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/cfi2017/thin-turing",
+    "type": "git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
